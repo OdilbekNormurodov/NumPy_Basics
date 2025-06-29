@@ -16,4 +16,4 @@
 - [Github](https://github.com/normurodoff)
 
 ## Repositiry
-[OpenCV Basics](https://github.com/normurodoff/NumPy_Basics)
+- [OpenCV Basics](https://github.com/normurodoff/NumPy_Basics)
