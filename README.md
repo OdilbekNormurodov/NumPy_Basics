@@ -13,7 +13,7 @@
 - File io
 - Linalg
 ## Github profile
-- [Github](https://github.com/normurodoff)
+- [Github](https://github.com/OdilbekNormurodov)
 
 ## Repositiry
-- [OpenCV Basics](https://github.com/normurodoff/NumPy_Basics)
+- [OpenCV Basics](https://github.com/OdilbekNormurodov/NumPy_Basics)
